@@ -1,0 +1,45 @@
+/*주석*/
+@font-face {
+    font-family: "hooutline";
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/SDSamliphopangche_Outline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "hobasic";
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/SDSamliphopangche_Basic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+background: #f2f2f2;
+text-align: center;
+font-size:19px;
+}
+
+.wrap img{
+
+margin: 0 auto;
+max-width: 550px;
+width: 100%;
+height: auto;
+cursor: pointer;
+}
+
+.copylink{
+margin: 0 auto;
+height: auto;
+cursor: pointer;
+}
+
+.email{
+color:blueviolet;
+font-size: 17px;
+font : bolder;
+}
+/*
+.wrap{width: 100%; text-align: center; margin:0 auto;}
+
+.wrap img{width: 100%; height: auto; max-width:550px;}
+*/
